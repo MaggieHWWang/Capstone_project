@@ -1,8 +1,8 @@
 # Capstone_project
 
-Sample
-Problem Statement: Received a lot of comments from Amazon with Ration, but it is hard to understand the objective of the ccomments. 
+**Data Source**: https://www.kaggle.com/shelvigarg/credit-card-buyers
+**Problem Statement**: Need to drive Credit Card Acquisition cost efficiently by maximizing internal resources.  
 
-Objective: Creative Classificartion of Customer comments --> Understand comment trend - what color people like generally / recently many product defects
+**Objective**: Predict which of existing eligble customer would be interested in applying for the credit card based on their demo, relationship with bank and exisiting product holdings. 
 
-So Supervised learning technique will be used with TF-IDF to solve NLP problem 
+**Methodology**: Supervised learning technique will be used (Linear / Random Forest Tree)
