@@ -11,9 +11,8 @@
 2. Supervised learning technique will be used (Logistic Regression / Random Forest Tree). The output can be used to cross-sell via telemarketing / EDM / SMS / Digital Advertising. 
 
 **Outcome**
-1. A propensity list with high accuracy for direct marketing - can I draw the graph 
-2. 3rd Party Segmentation 
-3. Customer Journey design 
+A propensity list with high accuracy for direct marketing - can I draw the graph 
+
 
 Flow: 
 What are the features 
